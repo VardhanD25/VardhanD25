@@ -8,7 +8,7 @@
 ## 🚀 **About Me**  
 
 - 🌱 **Currently Learning**: Next.js, Tailwind CSS  
-- 📫 **Reach Me At**: <a href="https://linkedin.com/in/vardhandongre">Linkedin</a>  
+- 📫 **Reach Me At**: <a href="https://www.linkedin.com/in/vardhan-dongre-5228a0280/">Linkedin</a>  
 - ⚡ **Fun Fact**: I am a former National Level Badminton Player 🏸💻  
 
 ---
@@ -19,7 +19,7 @@
   <a href="https://twitter.com/vardhandongre" target="blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://linkedin.com/in/vardhandongre" target="blank">
+  <a href="https://www.linkedin.com/in/vardhan-dongre-5228a0280/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.leetcode.com/vardhandongre" target="blank">
