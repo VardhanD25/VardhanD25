@@ -8,7 +8,7 @@
 ## 🚀 **About Me**  
 
 - 🌱 **Currently Learning**: Next.js, Tailwind CSS  
-- 📫 **Reach Me At**: vardhandongre67@gmail.com  
+- 📫 **Reach Me At**: <a href="https://twitter.com/vardhandongre">Twitter</a>  
 - ⚡ **Fun Fact**: I am a former National Level Badminton Player 🏸💻  
 
 ---
