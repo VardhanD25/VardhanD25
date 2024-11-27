@@ -1,4 +1,4 @@
-# **Hi 👋, I'm Vardhan Dongre**  
+# **Hi, I'm Vardhan Dongre**  
 ### **A Third-Year Computer Engineering Student from India**  
 
 🎓 Passionate about software development, problem-solving, and full-stack development. 
