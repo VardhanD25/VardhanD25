@@ -1,7 +1,7 @@
 # **Hi 👋, I'm Vardhan Dongre**  
 ### **A Third-Year Computer Engineering Student from India**  
 
-🎓 Passionate about software development, problem-solving, and full-stack development. Currently diving deep into **Next.js** and building scalable web applications. I am also a former **National-level Badminton player** with a competitive spirit that drives my coding journey.  
+🎓 Passionate about software development, problem-solving, and full-stack development. 
 
 ---
 
@@ -9,7 +9,7 @@
 
 - 🌱 **Currently Learning**: Next.js, Tailwind CSS  
 - 📫 **Reach Me At**: vardhandongre67@gmail.com  
-- ⚡ **Fun Fact**: I bring the same energy from the badminton court to my code! 🏸💻  
+- ⚡ **Fun Fact**: I am a former National Level Badminton Player 🏸💻  
 
 ---
 
