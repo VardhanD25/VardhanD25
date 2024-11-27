@@ -70,9 +70,5 @@
 
 ---
 
-## ✍️ **Quote of the Day**  
-_"The only way to do great work is to love what you do."_ – Steve Jobs  
-
----
 
 ### **Thanks for Visiting My Profile! Feel Free to Reach Out! 😊**  
